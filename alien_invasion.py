@@ -19,7 +19,6 @@ def run_game():
             if event.type == pygame.QUIT:
                 sys.exit()
             screen.fill(ai_settings.bg_color)
-        
         pygame.display.flip()
 # Added new comment
 run_game()
