@@ -8,7 +8,6 @@ def run_game():
     ai_settings = Settings()
     screen = pygame.display.set_mode(
         (ai_settings.screen_width, ai_settings.screen_height))
-
     screen = pygame.display.set_mode((800,600))
     pygame.display.set_caption("Alien Invasion")
     #set the background color.
