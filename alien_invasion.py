@@ -21,5 +21,5 @@ def run_game():
             screen.fill(ai_settings.bg_color)
         #Make the most recently drawn screen visible.
         pygame.display.flip()
-
+# Added new comment
 run_game()
