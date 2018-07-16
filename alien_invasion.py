@@ -20,5 +20,5 @@ def run_game():
                 sys.exit()
             screen.fill(ai_settings.bg_color)
         pygame.display.flip()
-# Added new comment
+
 run_game()
